@@ -1,1 +1,0 @@
-# meteor-simpel-todo-list
